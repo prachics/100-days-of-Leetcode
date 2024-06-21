@@ -15,13 +15,6 @@ The goal of this challenge is to consistently practice coding problems to prepar
 4. Document the learning process and solutions.
 
 
-## How to Use This Repository
-
-1. **Explore Problems:** Browse through the problems and solutions organized by day.
-2. **Read Explanations:** Each solution is accompanied by an explanation to help you understand the approach and thought process.
-3. **Practice:** Try solving the problems on your own before looking at the solutions.
-4. **Contribute:** Feel free to suggest improvements or optimizations for any solution.
-
 ## Resources
 
 - [LeetCode](https://leetcode.com/)
